@@ -11,7 +11,7 @@
    </rect>
   </property>
   <property name="windowTitle">
-   <string>BitMoneycoin - Debug window</string>
+   <string>Litecoin - Debug window</string>
   </property>
   <layout class="QVBoxLayout" name="verticalLayout_2">
    <item>
@@ -36,7 +36,7 @@
           </font>
          </property>
          <property name="text">
-          <string>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;BitMoneycoin Core&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</string>
+          <string>Litecoin Core</string>
          </property>
         </widget>
        </item>
@@ -315,14 +315,14 @@
           </font>
          </property>
          <property name="text">
-          <string>Debug logfile</string>
+          <string>Debug log file</string>
          </property>
         </widget>
        </item>
        <item row="15" column="0">
         <widget class="QPushButton" name="openDebugLogfileButton">
          <property name="toolTip">
-          <string>Open the BitMoneycoin debug logfile from the current data directory. This can take a few seconds for large logfiles.</string>
+          <string>Open the Litecoin debug log file from the current data directory. This can take a few seconds for large log files.</string>
          </property>
          <property name="text">
           <string>&amp;Open</string>
@@ -348,7 +348,7 @@
        <item row="17" column="0">
         <widget class="QPushButton" name="showCLOptionsButton">
          <property name="toolTip">
-          <string>Show the bitmoneycoin-qt help message to get a list with possible command-line options.</string>
+          <string>Show the Litecoin-Qt help message to get a list with possible Litecoin command-line options.</string>
          </property>
          <property name="text">
           <string>&amp;Show</string>
